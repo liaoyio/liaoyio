@@ -8,42 +8,43 @@
   </a>
 </h1>
 
-<br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Liaoyi, Web Developer/Coder 💻, Learner 👨‍💻  from China 🇨🇳.
-  <br />
-  <br />
-  💻 I enjoy exploring new technologies and frameworks in the front-end ecosystem.
-</p>
+<pre>
+且将桂花同载酒，与君共，少年游。
+</pre>
+
 
 <br />
-<br />
+
+
+👋 Hi, I'm Liaoyi, Web Developer/Coder 💻, Learner 👨‍💻  from China 🇨🇳.
+
+💻 I enjoy exploring new technologies and frameworks in the front-end ecosystem.
+
 <br />
 
-<!-- skills -->
-<h3 align="center"> 💡 Languages-Frameworks-Tools  </h2>
-<br />
-<br />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- first row -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cvue%2Cjavascript%2Ctypescript%2Chtml%2Ccss%2Ctailwind&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cvue%2Cjavascript%2Ctypescript%2Chtml%2Ccss%2Ctailwind&theme=light">
-      <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cthreejs%2Cvue%2Cjavascript%2Ctypescript%2Chtml%2Ccss%2Ctailwind&theme=light" alt="skills - 1">
-    </picture>
-    <br />
-    <!-- second row -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cmongodb%2Cmysql%2Cprisma%2Csupabase%2Cgit%2Cvim%2Cdocker&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cmongodb%2Cmysql%2Cprisma%2Csupabase%2Cgit%2Cvim%2Cdocker&theme=light">
-      <img src="https://skillicons.dev/icons?i=nodejs%2Cmongodb%2Cmysql%2Cprisma%2Csupabase%2Cgit%2Cvim%2Cdocker&theme=light" alt="skills - 2">
-    </picture>
-  </a>
-</p>
-<br />
+
+**Languages:**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+
+**Frameworks and Tools:**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+**GitHub Stats:**
+
+![liaoyi's github stats](https://github-readme-stats.vercel.app/api?username=liaoyio&show_icons=true&hide_title=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyio&layout=compact)
 
 
 
