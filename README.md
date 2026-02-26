@@ -37,6 +37,7 @@
 **Frameworks and Tools:**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Tanstack](https://img.shields.io/badge/TanStack-000000?logo=tanstack&logoColor=fff&style=flat)
 ![Shopify](https://img.shields.io/badge/Shopify-white?style=flat&logo=shopify&logoSize=auto&link=https%3A%2F%2Fwww.shopify.com%2F)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
