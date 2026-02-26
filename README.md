@@ -36,8 +36,9 @@
 
 **Frameworks and Tools:**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=fff)
+![Shopify](https://img.shields.io/badge/Shopify-white?style=flat&logo=shopify&logoSize=auto&link=https%3A%2F%2Fwww.shopify.com%2F)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
