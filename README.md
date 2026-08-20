@@ -76,24 +76,4 @@
 
 
 
-**GitHub Stats:**
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats" title="github stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=liaoyio&show_icons=true&theme=react&hide_title=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=liaoyio&show_icons=true&theme=default&hide_title=true" />
-    <img  src="https://github-readme-stats.vercel.app/api?username=liaoyi&show_icons=true&theme=default&hide_title=true" alt="liaoyi's github stats" />
-  </picture>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats" title="language stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyio&theme=react&layout=compact&hide_border=true" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyio&theme=default&layout=compact" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=liaoyio&theme=default&layout=compact" alt="liaoyi's language stats" />
-  </picture>
-</a>
-
-
-
 
